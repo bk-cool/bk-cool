@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bk-cool
-- 👀 I’m interested in Agile project management and ERP system
+- 👀 I’m interested in Agile project management, cloud application, MES application and ERP system
 - 🌱 I’m currently learning on SAP ERP
-- 💞️ I’m looking to collaborate on Agile experience and ERP related implementation in the near future
+- 💞️ I’m looking to collaborate on Agile experience, SaaS and ERP related implementation in the near future
 - 📫 How to reach me https://www.linkedin.com/in/bkyeong/
 
 <!---
